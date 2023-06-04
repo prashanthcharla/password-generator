@@ -34,7 +34,7 @@ To use the Password Generator, simply access the project's [GitHub Pages](https:
 
 If you would like to contribute to the Password Generator project or make modifications to suit your specific requirements, follow these steps:
 
-1. Clone the repository to your local machine using the following command: `git clone https://github.com/your-github-username/password-generator.git`
+1. Clone the repository to your local machine using the following command: `git clone https://github.com/prashathcharla/password-generator.git`
 
 2. Open the project files in your preferred code editor.
 
@@ -48,14 +48,10 @@ If you would like to contribute to the Password Generator project or make modifi
 
 ## Contributing
 
-Contributions to the Password Generator project are welcome! If you have any ideas, suggestions, or bug reports, please [open an issue](https://github.com/your-github-username/password-generator/issues) on GitHub. You can also submit pull requests to propose changes or improvements.
+Contributions to the Password Generator project are welcome! If you have any ideas, suggestions, or bug reports, please [open an issue](https://github.com/prashathcharla/password-generator/issues) on GitHub. You can also submit pull requests to propose changes or improvements.
 
 ## Acknowledgments
 
 - The Password Generator project was inspired by the need for stronger and more secure passwords in today's digital age.
 
 - Thanks to the contributors and developers who have helped improve and enhance this project.
-
----
-
-Feel free to customize this description according to your project's specific details and make sure to replace "your-github-username" with your actual GitHub username.
