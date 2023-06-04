@@ -26,7 +26,7 @@ To use the Password Generator, simply access the project's [GitHub Pages](https:
 
 3. Click the "Generate Password" button to generate a secure password based on your selected options.
 
-4. Copy the generated password to your clipboard by clicking the "Copy to Clipboard" button.
+4. Copy the generated password to your clipboard by clicking the "Copy" button.
 
 5. Repeat the process to generate additional passwords as needed.
 
